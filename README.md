@@ -41,6 +41,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * Icon made by [Pixel perfect](https://www.flaticon.com/authors/pixel-perfect) from [www.flaticon.com](https://www.flaticon.com/)
-* [tarkov-market.com](https://tarkov-market.com) for their great API
+* [tarkov-market.com](https://tarkov-market.com) for easy to use API
 
 
