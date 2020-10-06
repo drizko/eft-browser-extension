@@ -1,5 +1,5 @@
 # eft-browser-extension
-Escape From Tarkov Price Checker
+Escape from Tarkov Price Checker
 
 * [About](#about)
 * [Getting Started](#getting-started)
@@ -10,12 +10,12 @@ Escape From Tarkov Price Checker
 <!-- ABOUT -->
 ## About
 
-Browser extension that will render the flea mark price, dealer, and dealer price onto [Escape From Tarkov wiki](https://escapefromtarkov.gamepedia.com/Escape_from_Tarkov_Wiki) when you are looking at an iteam
+Browser extension that will render the flea mark price, dealer, and dealer price onto [Escape from Tarkov wiki](https://escapefromtarkov.gamepedia.com/Escape_from_Tarkov_Wiki) when you are looking at an iteam
 
 <!-- GETTING STARTED -->
 ## Usage
 
-Support for Chrome and Firefox you can install them with these links: TBA
+Support for Chrome and Firefox you can install them with these links: Awaiting Extension Review.
 
 
 <!-- LICENSE -->
