@@ -1,12 +1,8 @@
 const itemName = document.getElementById("firstHeading");
 const searchQuery = itemName.textContent;
 
-const url = `https://tarkov-price-checker.glitch.me/get-info?q=${encodeURI(searchQuery)}`;
-
-fetch(url, {
-    method: "GET",
-})
-    .then((res) => res.json())
+fetch(`https://tarkov-price-checker.glitch.me/get-info?q=${encodeURI(searchQuery)}`)
+    .then(res => res.json())
     .then(function (data) {
         const price = document.createElement("div");
         const traderPrice = document.createElement("div");
