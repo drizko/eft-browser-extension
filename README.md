@@ -17,6 +17,7 @@ Browser extension that will render the flea mark price, dealer, and dealer price
 ## Install
 
 Chrome Extension: https://chrome.google.com/webstore/detail/tarkov-price-checker/biodbhjiicmpkhkiodicnomhjlimigmp
+
 Firefox Add-On: https://addons.mozilla.org/en-US/firefox/addon/tarkov-price-checker/
 
 ### Chrome manual install
