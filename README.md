@@ -3,6 +3,7 @@ Escape from Tarkov Price Checker
 
 * [About](#about)
 * [Install](#install)
+* [Usage](#usage)
 * [License](#license)
 * [Acknowledgements](#acknowledgements)
 
@@ -15,7 +16,8 @@ Browser extension that will render the flea mark price, dealer, and dealer price
 <!-- INSTALL -->
 ## Install
 
-Currently supports Chrome and Firefox but you need to install manually until the extension review process is complete.
+Chrome Extension: https://chrome.google.com/webstore/detail/tarkov-price-checker/biodbhjiicmpkhkiodicnomhjlimigmp
+Firefox Add-On: https://addons.mozilla.org/en-US/firefox/addon/tarkov-price-checker/
 
 ### Chrome manual install
 
@@ -33,6 +35,10 @@ Currently supports Chrome and Firefox but you need to install manually until the
 
 Note on FireFox: The extension will be deleted if you're adding it manually using the instructions above, I haven't had success installing it anyother way.
 
+<!-- USAGE -->
+## Usage
+
+Since I'm using a free tier node service the first couple of tries after install maybe not display the data expected due to the server spinning up. Just give it 10 seconds and try again then everything should work normally after the service is started.
 
 <!-- LICENSE -->
 ## License
