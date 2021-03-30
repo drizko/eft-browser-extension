@@ -1,7 +1,7 @@
 {
     "name": "Tarkov Price Checker",
     "description": "Add prices of items to the wiki entries",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "manifest_version": 2,
     "icons": {
         "64": "assets/ruble-64.png"
